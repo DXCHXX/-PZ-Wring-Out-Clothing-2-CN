@@ -1,0 +1,9 @@
+version=1
+title=Wring-Out-Clothing-2-CN
+description=Project Zomboid mod Wring Out Clothing 汉化
+description=
+description=本项目语言文本翻译使用大语言模型翻译。
+description=
+description=汉化mod地址订阅地址：https://steamcommunity.com/sharedfiles/filedetails/?id=2696083206
+tags=
+visibility=public

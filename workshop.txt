@@ -1,9 +1,9 @@
 version=1
 title=Wring-Out-Clothing-2-CN
-description=Project Zomboid mod Wring Out Clothing æ±‰åŒ–
+description=Project Zomboid mod Wring Out Clothing ºº»¯
 description=
-description=æœ¬é¡¹ç›®è¯­è¨€æ–‡æœ¬ç¿»è¯‘ä½¿ç”¨å¤§è¯­è¨€æ¨¡å‹ç¿»è¯‘ã€‚
+description=±¾ÏîÄ¿ÓïÑÔÎÄ±¾·­ÒëÊ¹ÓÃ´óÓïÑÔÄ£ĞÍ·­Òë¡£
 description=
-description=æ±‰åŒ–modåœ°å€è®¢é˜…åœ°å€ï¼šhttps://steamcommunity.com/sharedfiles/filedetails/?id=2696083206
+description=ºº»¯modµØÖ·¶©ÔÄµØÖ·£ºhttps://steamcommunity.com/sharedfiles/filedetails/?id=2696083206
 tags=
 visibility=public
